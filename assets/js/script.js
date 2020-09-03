@@ -14,7 +14,7 @@ $("#cargar").click(function() {
 
   var image = new Image();
 
-  var src = 'assets/img/pika.gif';
+  var src = 'https://raw.githubusercontent.com/Gabyblackroses/Pokedex/ph-pages/assets/img/Pika.gif"';
   image.src = src;
 
   $('#image').append(image);
